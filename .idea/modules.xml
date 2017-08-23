@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apkthemeplugin/apkthemeplugin.iml" filepath="$PROJECT_DIR$/apkthemeplugin/apkthemeplugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicloadapk/dynamicloadapk.iml" filepath="$PROJECT_DIR$/dynamicloadapk/dynamicloadapk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicloadinstalledapk/dynamicloadinstalledapk.iml" filepath="$PROJECT_DIR$/dynamicloadinstalledapk/dynamicloadinstalledapk.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugnMaster.iml" filepath="$PROJECT_DIR$/plugnMaster.iml" />
     </modules>
   </component>
